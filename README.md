@@ -1,4 +1,4 @@
-# React.js Challenge
+# React.js Challenge - Login Form
 You have multiple clients who all need login forms, sooner rather than later. To make all of them
 happy, you’re to build a reusable login form component with React.
 Your login form component must satisfy the following criteria:
